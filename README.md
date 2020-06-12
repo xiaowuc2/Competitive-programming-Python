@@ -2,5 +2,3 @@
 Competitive programming using Python. 
 
 
-
-
